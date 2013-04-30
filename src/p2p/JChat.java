@@ -17,7 +17,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import java.awt.*;
 import java.awt.event.*;
-
+                         // test comment asd as
 public class JChat extends JFrame implements ActionListener {
 	String name;
 	InetAddress iadr;
